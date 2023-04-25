@@ -1,5 +1,4 @@
 import { galleryItems } from "./gallery-items.js";
-// Change code below this line
 
 const ul = document.querySelector(".gallery");
 galleryItems.forEach((image) => {
